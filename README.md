@@ -28,7 +28,7 @@ Users should cite:
 
 Haibao Tang et al. (2015). jcvi: JCVI utility libraries. Zenodo. [10.5281/zenodo.31631](http://dx.doi.org/10.5281/zenodo.31631).
 
-The copyright information for the software is available in the directory of actively running binders and [reprinted below](License for MCscan software) for clarity.
+The copyright information for the software is  [reprinted below](License for MCscan software) for clarity.
 
 ***Clarifying Software Attribution: I, Wayne, am not involved in the MCScan or JCVI software at all. Those listed above are the developers and distributors of MCscan and JCVI. See their materials. I simply set up this repository to make the software useable without installation headaches.***
 
