@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# upgrade the ipykernel so python2 works? https://github.com/jupyter/repo2docker/issues/257
+pip2 install --upgrade ipykernel
+
+#install jcvi
+pip2 install jcvi
