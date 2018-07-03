@@ -1,0 +1,18 @@
+name: mcscan-binderized
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=2
+  - scipy
+  - numpy
+  - last
+  - texlive-core 
+  - pandas-datareader>=0.5.0
+  - matplotlib>=2.1.1
+  - seaborn
+  - statsmodels
+  - regex
+  - perl=5.22.0.1
+  
