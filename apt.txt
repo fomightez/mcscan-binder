@@ -1,8 +1,2 @@
-texlive-latex-base
-texlive-latex-recommended
 texlive-full
-texlive-science
-texlive-latex-extra
-texlive-fonts-recommended
-dvipng
 ghostscript
