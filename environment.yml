@@ -15,4 +15,6 @@ dependencies:
   - statsmodels
   - regex
   - perl=5.22.0.1
+  - pip:
+    - jcvi
   
