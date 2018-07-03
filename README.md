@@ -77,7 +77,7 @@ Technical Details
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
 Fetching the data files for [the example workflow](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) uses FTP which is not available via the Binder service and so the data is included in the repository.
-Other restrictions/dependencies noted by the author that the module is in Python 2.7 and it needs working [LAST](http://last.cbrc.jp/) installation. The latter is easiest with bioconda. I found a few other things it needed, see the included `environment.yml`.
+Other restrictions/dependencies noted by the author that the module is in Python 2.7 and it needs working [LAST](http://last.cbrc.jp/) installation. The latter is easiest with bioconda. I found a few other things it needed, see the included `environment.yml` file.
 
 Click this button below to begin using MCScan:
 
