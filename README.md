@@ -6,6 +6,8 @@
 tl;dr:
 Click any launch binder badge on this page to use [MCscan software](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) inside your browser.
 
+**CANNOT MAKE PDF SAVING WORK IN THIS. EVERYTHING ELSE WORKS (PLUS GOOD TO SEE COMBINATION OF USING PYTHON2.7/CONDA/APT.TXT), SO KEEP.**
+
 -----
 
 ***MCscan software (Python version) facilitates pairwise and multiple genome syntenic comparisons and visualizations.***
