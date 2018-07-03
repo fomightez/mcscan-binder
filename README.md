@@ -8,7 +8,7 @@ Click any launch binder badge on this page to use [MCscan software](https://gith
 
 -----
 
-*** MCscan software (Python version) facilitates pairwise and multiple genome syntenic comparisons and visualizations. ***
+***MCscan software (Python version) facilitates pairwise and multiple genome syntenic comparisons and visualizations.***
 
 It is an application within the JCVI module, see [here](https://github.com/tanghaibao/jcvi/wiki) and [here](https://github.com/tanghaibao/jcvi).
 
