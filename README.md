@@ -11,7 +11,7 @@ Click any launch binder badge on this page to use [MCscan software](https://gith
 
 ***MCscan software (Python version) facilitates pairwise and multiple genome syntenic comparisons and visualizations.***
 
-It is an application within the JCVI module, see [here](https://github.com/tanghaibao/jcvi/wiki) and [here](https://github.com/tanghaibao/jcvi).
+MCscan an application within the JCVI module, see [here](https://github.com/tanghaibao/jcvi/wiki) and [here](https://github.com/tanghaibao/jcvi).
 
 This repository is for running python-based  [MCscan software](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
 
@@ -29,7 +29,7 @@ Users should cite:
 
 Haibao Tang et al. (2015). jcvi: JCVI utility libraries. Zenodo. [10.5281/zenodo.31631](http://dx.doi.org/10.5281/zenodo.31631).
 
-The copyright information for the software is  [reprinted below](License for MCscan software) for clarity.
+The copyright information for the software is [reprinted below](#license-for-mcscan-software) for clarity.
 
 ***Clarifying Software Attribution: I, Wayne, am not involved in the MCScan or JCVI software at all. Those listed above are the developers and distributors of MCscan and JCVI. See their materials. I simply set up this repository to make the software useable without installation headaches.***
 
@@ -78,7 +78,8 @@ Technical Details
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
 Fetching the data files for [the example workflow](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) uses FTP which is not available via the Binder service and so the data is included in the repository.
-Other restrictions/dependencies noted by the author that the module is in Python 2.7 and it needs working [LAST](http://last.cbrc.jp/) installation. The latter is easiest with bioconda. I found a few other things it needed, see the included `environment.yml` file.
+Other restrictions/dependencies noted by the author that the module is in Python 2.7 and it needs working [LAST](http://last.cbrc.jp/) installation. The latter is easiest with bioconda. I found a few other things it needed, see the included `environment.yml` file.  
+Printing to pdf seems to involve texlive/fonts and the only way I seemed to be able to get that working was to use `apt-get` to install it (none of the `texliv` options in conda seemed to work) and that is why this also uses `apt.txt` for the Binder system.
 
 Click this button below to begin using MCScan:
 
