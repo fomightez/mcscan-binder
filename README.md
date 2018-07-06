@@ -11,7 +11,7 @@ Click any launch binder badge on this page to use [MCscan software](https://gith
 
 ***MCscan software (Python version) facilitates pairwise and multiple genome syntenic comparisons and visualizations.***
 
-MCscan an application within the JCVI module, see [here](https://github.com/tanghaibao/jcvi/wiki) and [here](https://github.com/tanghaibao/jcvi).
+MCscan is an application within the JCVI module, see [here](https://github.com/tanghaibao/jcvi/wiki) and [here](https://github.com/tanghaibao/jcvi).
 
 This repository is for running python-based  [MCscan software](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
 
@@ -22,8 +22,6 @@ Software
 --------
 
 The MCscan software is available directly from the authors at <a href="https://github.com/tanghaibao/jcvi">https://github.com/tanghaibao/jcvi</a>. It is more easily installed using `pip` via [PyPi](https://pypi.org/project/jcvi/).
-
-The PatMatch software is described in [this scientific article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160129/).
 
 Users should cite:
 
