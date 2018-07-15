@@ -21,7 +21,7 @@ This repository is for running python-based  [MCscan software](https://github.co
 Software
 --------
 
-The MCscan software is available directly from the authors at <a href="https://github.com/tanghaibao/jcvi">https://github.com/tanghaibao/jcvi</a>. It is more easily installed using `pip` via [PyPi](https://pypi.org/project/jcvi/).
+The MCscan software will be installed already in each active session launched from this repo. It is also available directly from the authors at <a href="https://github.com/tanghaibao/jcvi">https://github.com/tanghaibao/jcvi</a>. It is more easily installed using `pip` via [PyPi](https://pypi.org/project/jcvi/).
 
 Users should cite:
 
