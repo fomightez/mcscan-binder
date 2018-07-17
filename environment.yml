@@ -14,6 +14,7 @@ dependencies:
   - perl=5.22.0.1
   - pip:
     - jcvi
+    - gffutils
     - wand
     - matplotlib
     - seaborn
