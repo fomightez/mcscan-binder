@@ -9,6 +9,8 @@ dependencies:
   - numpy
   - last
   - pandas-datareader>=0.5.0
+  - biopython
+  - seaborn
   - statsmodels
   - regex
   - perl=5.22.0.1
@@ -17,4 +19,3 @@ dependencies:
     - gffutils
     - wand
     - matplotlib
-    - seaborn
