@@ -13,7 +13,7 @@ Click any launch binder badge on this page to use [MCscan software](https://gith
 
 MCscan is an application within the JCVI module, see [here](https://github.com/tanghaibao/jcvi/wiki) and [here](https://github.com/tanghaibao/jcvi).
 
-This repository is for running python-based  [MCscan software](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
+This repository is for running python-based [MCscan software](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
 
 ------
 
@@ -36,6 +36,8 @@ Usage
 -----
 
 This repository is set up to allow running the command line version of this software after pressing the `launch binder` button above or below.
+
+I have converted Haibao Tang's workflow example described [here](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) to a Jupyter notebook available to run in the launched session. Additionally, I added some pointers to abilities beyond those covered in the example workflow.
 
 
 License for MCscan software
