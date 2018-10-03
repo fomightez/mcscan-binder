@@ -37,6 +37,13 @@ Usage
 
 This repository is set up to allow running the command line version of this software after pressing the `launch binder` button above or below.
 
+Related software
+----------------
+
+I have set up another repository that launches an active Jupyter session with alternative software for syntenic comparisons and visualizations:
+
+- SynChro: reconstruction and visualization of Synteny blocks along Chromosomes. SynChro, along with PhyChro,ReChro,and AnChro, is part of the CHROnicle package dedicated to the reconstruction of the evolutionary history of genomes. See [here](https://github.com/fomightez/synchro-binder) to learn more about that software and to launch an active Jupyter session where it works.
+I have converted the software's 'Quick start' to a Jupyter notebook and added some additional exploration of the features of the software beyond that. Hopefully having working versions of that software along with the  MCscan software available here lowers the technical barriers that would normally detour interested persons from comparing and contrasting options with each set of software. In fact, this hopefully makes it easy to supplement analyses with one with use of features from the other.
 
 License for MCscan software
 ---------------------------
@@ -75,9 +82,9 @@ Technical Details
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
-Fetching the data files for [the example workflow](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) uses FTP which is not available via the Binder service and so the data is included in the repository.
-Other restrictions/dependencies noted by the author that the module is in Python 2.7 and it needs working [LAST](http://last.cbrc.jp/) installation. The latter is easiest with bioconda. I found a few other things it needed, see the included `environment.yml` file.  
-Printing to pdf seems to involve texlive/fonts and the only way I seemed to be able to get that working was to use `apt-get` to install it (none of the `texliv` options in conda seemed to work) and that is why this also uses `apt.txt` for the Binder system.
+Fetching the data files for [the example workflow](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) uses FTP which is not available via the Binder service and so the data is included in the repository.  
+Other restrictions/dependencies noted by the author are that the module is in Python 2.7 and it needs working [LAST](http://last.cbrc.jp/) installation. The latter is easiest with bioconda. I found a few other things it needed, see the included `environment.yml` file.  
+Printing to pdf seems to involve texlive/fonts and the only way I seemed to be able to get that working was to use `apt-get` to install it (none of the `texlive`-related options I found in Conda seemed to work), and that is why this also uses `apt.txt` for the Binder system.
 
 Click this button below to begin using MCScan:
 
