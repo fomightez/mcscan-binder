@@ -37,13 +37,6 @@ Usage
 
 This repository is set up to allow running the command line version of this software after pressing the `launch binder` button above or below.
 
-Related software
-----------------
-
-I have set up another repository that launches an active Jupyter session with alternative software for syntenic comparisons and visualizations:
-
-- SynChro: reconstruction and visualization of Synteny blocks along Chromosomes. SynChro, along with PhyChro,ReChro,and AnChro, is part of the CHROnicle package dedicated to the reconstruction of the evolutionary history of genomes. See [here](https://github.com/fomightez/synchro-binder) to learn more about that software and to launch an active Jupyter session where it works.
-I have converted the software's 'Quick start' to a Jupyter notebook and added some additional exploration of the features of the software beyond that. Hopefully having working versions of that software along with the  MCscan software available here lowers the technical barriers that would normally detour interested persons from comparing and contrasting options with each set of software. In fact, this hopefully makes it easy to supplement analyses with one with use of features from the other.
 
 License for MCscan software
 ---------------------------
@@ -76,6 +69,14 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
+
+Related software
+----------------
+
+I have set up another repository that launches an active Jupyter session with alternative software for syntenic comparisons and visualizations:
+
+- SynChro: reconstruction and visualization of Synteny blocks along Chromosomes. SynChro, along with PhyChro,ReChro,and AnChro, is part of the CHROnicle package dedicated to the reconstruction of the evolutionary history of genomes. See [here](https://github.com/fomightez/synchro-binder) to learn more about that software and to launch an active Jupyter session where it works.
+I have converted the software's 'Quick start' to a Jupyter notebook and added some additional exploration of the features of the software beyond that. Hopefully having working versions of that software along with the  MCscan software available here lowers the technical barriers that would normally detour interested persons from comparing and contrasting options with each set of software. In fact, this hopefully makes it easy to supplement analyses with one with use of features from the other.
 
 Technical Details
 -----------------
