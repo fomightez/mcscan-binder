@@ -89,6 +89,8 @@ Fetching the data files for [the example workflow](https://github.com/tanghaibao
 Other restrictions/dependencies noted by the author are that the module is in Python 2.7 and it needs working [LAST](http://last.cbrc.jp/) installation. The latter is easiest with bioconda. I found a few other things it needed, see the included `environment.yml` file.  
 Printing to pdf seems to involve texlive/fonts and the only way I seemed to be able to get that working was to use `apt-get` to install it (none of the `texlive`-related options I found in Conda seemed to work), and that is why this also uses `apt.txt` for the Binder system.
 
+I borrrowed the 'warning' highlight/introductory text about notebooks at the top of the included notebook from Tim Sherratt's notebook [here](https://github.com/GLAM-Workbench/te-papa-api/blob/master/Exploring-the-Te-Papa-collection-API.ipynb).
+
 Click this button below to begin using MCScan:
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/mcscan-binder/master?filepath=index.ipynb)
