@@ -1,5 +1,5 @@
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/mcscan-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/mcscan-binder/master?filepath=index.ipynb)
 
 # mcscan-binder
 
@@ -93,4 +93,4 @@ I borrrowed the 'warning' highlight/introductory text about notebooks at the top
 
 Click this button below to begin using MCScan:
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/mcscan-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/mcscan-binder/master?filepath=index.ipynb)
